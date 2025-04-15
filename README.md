@@ -1,12 +1,20 @@
-# React + Vite
+# 🟢 WeChat Clone  
+*A React-powered messaging app with sleek UI, real-time vibes, and that iconic green charm.*  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0yY2VhY2JvY2R5Y3B6ZzVlZHF6eGJlcTJtN2RmdmRqZ2VtY3JxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)  
 
-Currently, two official plugins are available:
+## ✨ Features  
+✔️ **WeChat-style UI** – Green accents, clean bubbles  
+✔️ **Auth Flow** – Login/logout with localStorage  
+✔️ **Chat UI** – Message bubbles and contact list  
+✔️ **Responsive** – Desktop
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Quickstart
+```
+git clone https://github.com/bryansaw2001/wechat-clone.git
+cd wechat-clone
+npm install
+npm run dev
+```
+## 🧑‍🎨 Design Credits
+**Inspired by WeChat minimalist UI (100% code from scratch!!)**
